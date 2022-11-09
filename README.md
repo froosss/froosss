@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @froosss
 - 🌱 I’m currently learning languages PHP
 - 📫 How to reach me
-- Telegram: @kambaIa
 - Jabber: froos@jabber.ru
 
 <!---
